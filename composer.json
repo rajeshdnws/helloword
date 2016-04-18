@@ -1,6 +1,7 @@
 {
-    "name": "rajeshdnw/hello-world",
-    "description": "My first Composer project",
+    "name": "rajeshdnws/hello-world",
+    "description": "My first Composer project"
+   "version": "0.5.5-stable",
     "authors": [
         {
             "name": "Rajesh chaudhary",
